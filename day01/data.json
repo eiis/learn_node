@@ -1,0 +1,9 @@
+{
+  "name":"fugui",
+  "address":{
+    "street:":"Way",
+    "city":"New York",
+    "state":"NY",
+    "zip":"10001"
+  }
+}
